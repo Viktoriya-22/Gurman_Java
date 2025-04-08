@@ -29,7 +29,7 @@ public class TechnicalTask {
             } for( int num:intArray )
             	if(num%3==0)
         	System.out.print(num + " ");
-     
+    
         } else {
         	System.out.println("Invalid input");
         		}
